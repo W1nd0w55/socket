@@ -1,6 +1,0 @@
-1. Make a homepage +
-2. Create a signup form +
-3. Get the data into SQL +
-4. Create a login form +
-5. Query the data +
-6. Make a "My Account" page
